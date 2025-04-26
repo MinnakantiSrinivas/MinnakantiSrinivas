@@ -18,28 +18,11 @@ Newly minted UConn grad 🎓 | Unlocking data’s potential 📊 with SQL, Table
 ### Badges
 
 <a href="https://github.com/MinnakantiSrinivas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinnakantiSrinivas&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-### Skills  
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="36" height="36" alt="Advanced Excel" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQL" />
-  </a>
-</p>
+### Badges
+
+[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=facc15&color=27272a)](https://www.python.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-Proficient-E97627?style=flat-square&logo=tableau&logoColor=facc15&color=27272a)](https://www.tableau.com/)
+[![R](https://img.shields.io/badge/R-Expert-276DC3?style=flat-square&logo=r&logoColor=facc15&color=27272a)](https://www.r-project.org/)
+[![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=facc15&color=27272a)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql&logoColor=facc15&color=27272a)](https://www.postgresql.org/)
