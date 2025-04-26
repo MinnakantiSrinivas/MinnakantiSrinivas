@@ -1,4 +1,3 @@
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Srinivas Minnakanti ===========================================================================================================================================  Business Analyst | Data Analyst -------------------------------  Newly minted UConn grad 🎓 | Unlocking data’s potential 📊 with SQL, Tableau, and Python to drive impact  * 🌍  I'm based in Tampa, FL * ✉️  You can contact me at [minnakantisrinu@gmail.com](mailto:minnakantisrinu@gmail.com)
 
 ### Skills  
@@ -8,5 +7,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Badges
 
 <a href="https://github.com/MinnakantiSrinivas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinnakantiSrinivas&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
--->
