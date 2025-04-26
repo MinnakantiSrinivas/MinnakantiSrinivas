@@ -12,21 +12,16 @@ Newly minted UConn grad 🎓 | Unlocking data’s potential 📊 with SQL, Table
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="36" height="36" alt="Power BI" />
   </a> </p> 
 
-### Badges
+### Proficiency
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=facc15&color=27272a)](https://www.python.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-Proficient-E97627?style=flat-square&logo=tableau&logoColor=facc15&color=27272a)](https://www.tableau.com/)
-[![R](https://img.shields.io/badge/R-Expert-276DC3?style=flat-square&logo=r&logoColor=facc15&color=27272a)](https://www.r-project.org/)
-[![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=facc15&color=27272a)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=flat-square&logo=tableau&logoColor=facc15&color=27272a)](https://www.tableau.com/)
+[![R](https://img.shields.io/badge/R-Advanced-276DC3?style=flat-square&logo=r&logoColor=facc15&color=27272a)](https://www.r-project.org/)
+[![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=flat-square&logo=microsoft-excel&logoColor=facc15&color=27272a)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql&logoColor=facc15&color=27272a)](https://www.postgresql.org/)
 
  ### Socials  <p align="left"> <a href="https://www.github.com/MinnakantiSrinivas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/srinivasminnakanti/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
- Skills
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /> <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=facc15&color=27272a" alt="Python Expert" /> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" /> <img src="https://img.shields.io/badge/Tableau-Proficient-E97627?style=flat-square&logo=tableau&logoColor=facc15&color=27272a" alt="Tableau Proficient" /> </a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /> <img src="https://img.shields.io/badge/R-Expert-276DC3?style=flat-square&logo=r&logoColor=facc15&color=27272a" alt="R Expert" /> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="36" height="36" alt="Power BI" /> <img src="https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=flat-square&logo=power-bi&logoColor=facc15&color=27272a" alt="Power BI Proficient" /> </a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql&logoColor=facc15&color=27272a" alt="SQL Expert" /> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /> <img src="https://img.shields.io/badge/MySQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=facc15&color=27272a" alt="MySQL Expert" /> </a> </p>
+
 
 
