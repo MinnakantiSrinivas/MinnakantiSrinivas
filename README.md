@@ -12,13 +12,6 @@ Newly minted UConn grad 🎓 | Unlocking data’s potential 📊 with SQL, Table
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="36" height="36" alt="Power BI" />
   </a> </p> 
 
-
- ### Socials  <p align="left"> <a href="https://www.github.com/MinnakantiSrinivas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/srinivasminnakanti/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
- 
-### Badges
-
-<a href="https://github.com/MinnakantiSrinivas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinnakantiSrinivas&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### Badges
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=facc15&color=27272a)](https://www.python.org/)
@@ -26,3 +19,16 @@ Newly minted UConn grad 🎓 | Unlocking data’s potential 📊 with SQL, Table
 [![R](https://img.shields.io/badge/R-Expert-276DC3?style=flat-square&logo=r&logoColor=facc15&color=27272a)](https://www.r-project.org/)
 [![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=facc15&color=27272a)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql&logoColor=facc15&color=27272a)](https://www.postgresql.org/)
+
+ ### Socials  <p align="left"> <a href="https://www.github.com/MinnakantiSrinivas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/srinivasminnakanti/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+ 
+### Badges
+
+<a href="https://github.com/MinnakantiSrinivas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinnakantiSrinivas&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=sqlite&logoColor=facc15&color=27272a" alt="SQL Expert" />
+</a>
+
+
