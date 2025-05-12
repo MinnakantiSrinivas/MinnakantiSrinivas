@@ -2,7 +2,6 @@
 ## Business Analyst | Data Analyst
 Newly minted UConn grad 🎓 | Unlocking data’s potential 📊 with SQL, Tableau, and Python to drive impact  
 * 🌍  I'm based in Tampa, FL 
-* ✉️  You can contact me at [minnakantisrinu@gmail.com](mailto:minnakantisrinu@gmail.com)
 
 ### Skills  
 
