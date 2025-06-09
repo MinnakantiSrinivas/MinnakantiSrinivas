@@ -38,7 +38,7 @@ UConn grad 🎓 | Translating business needs into data solutions using SQL, Tabl
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/srinivasminnakanti/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -46,11 +46,12 @@ UConn grad 🎓 | Translating business needs into data solutions using SQL, Tabl
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </picture>
   </a>
-  
+
   <a href="https://www.datascienceportfol.io/minnakantisrinu" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" width="32" height="32" alt="Portfolio" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="32" height="32" alt="Portfolio" />
   </a>
 </p>
+
 
 
 
