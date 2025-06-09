@@ -9,7 +9,11 @@ UConn grad 🎓 | Translating business needs into data solutions using SQL, Tabl
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" />
   </a>  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="36" height="36" alt="Power BI" />
-  </a> </p> 
+  </a> 
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="JIRA" />
+  </a>
+</p> 
 
 ### Proficiency
 
