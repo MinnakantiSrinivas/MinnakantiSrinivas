@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Srinivas Minnakanti
 ## Business Analyst | Data Analyst
-Newly minted UConn grad 🎓 | Unlocking data’s potential 📊 with SQL, Tableau, and Python to drive impact  
+UConn grad 🎓 | Unlocking data’s potential 📊 with SQL, Tableau, and Python to drive impact  
 * 🌍  I'm based in Tampa, FL 
 
 ### Skills  
