@@ -22,7 +22,7 @@ UConn grad 🎓 | Translating business needs into data solutions using SQL, Tabl
 [![R](https://img.shields.io/badge/R-Advanced-276DC3?style=flat-square&logo=r&logoColor=facc15&color=27272a)](https://www.r-project.org/)
 [![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=flat-square&logo=microsoft-excel&logoColor=facc15&color=27272a)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql&logoColor=facc15&color=27272a)](https://www.postgresql.org/)
-
+[![JIRA](https://img.shields.io/badge/JIRA-Expert-0052CC?style=flat-square&logo=jira&logoColor=facc15&color=27272a)](https://www.atlassian.com/software/jira)
 
  ### Socials
  
